@@ -1,4 +1,5 @@
 # curso-python
-Curso básico Python
+
+Katas del curso básico de Python
 
 Autor: Abinadab Vazquez
